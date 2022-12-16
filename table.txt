@@ -1,0 +1,6 @@
+'mon':["flat","Machine learning","Advance Java","MPMC","Wt Lab"]
+'tue':["MPMC","OS","Machine learning","Flat","Training (Gs)"]
+'wed':["Advance Java","flat","OS","Library","Training (AP)"]
+'thu':["Machine learning","MPMC","Advance Java lab","Programming Practice"]
+'fri':["flat","MPMC","OS","Advance Java","Mini Project"]
+'sat':["Os lab","Machine learning","Os","Advance Java","Proctorial"]
