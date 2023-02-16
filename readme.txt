@@ -98,9 +98,12 @@ References
 
 
 How to get API for free?
+newsapi.org 
+
 
 
 If SpeechRecognition is not working.
+Check the microphone of your system is working or not if yes then check the module SpeechRecognition module.
 
 
 If any other problem occured
